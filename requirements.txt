@@ -1,5 +1,6 @@
+
 fastapi
-uvicorn
+uvicorn[standard]
 playwright
 openai
 python-dotenv
